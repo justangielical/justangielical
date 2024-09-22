@@ -40,7 +40,7 @@
 
 [//]: # "Footer"
 
-<img height="200" src="https://raw.githubusercontent.com/ladyfoxpoint/ladyfoxpoint/main/assets/ganyu/decoration.jpg">
+<img height="200" src="https://raw.githubusercontent.com/ladyfoxpoint/ladyfoxpoint/main/assets/ganyu/decoration.png">
 
 <h2>───</h2>
 
