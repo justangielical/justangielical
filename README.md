@@ -5,7 +5,7 @@
 # ` ๋࣭ ⭑⚝`
 
 <h3> Hiya! I'm Nana! </h3>
-<img height="250" src="https://raw.githubusercontent.com/ladyfoxpoint/ladyfoxpoint/main/assets/ningguang/pfp-circle.png">
+<img height="250" src="https://raw.githubusercontent.com/ladyfoxpoint/ladyfoxpoint/main/assets/ganyu/pfp-circle.png">
 
 #### `Just a silly little girl making silly little programs...`
 
@@ -40,7 +40,7 @@
 
 [//]: # "Footer"
 
-<img height="200" src="https://raw.githubusercontent.com/ladyfoxpoint/ladyfoxpoint/main/assets/ningguang/decoration.jpg">
+<img height="200" src="https://raw.githubusercontent.com/ladyfoxpoint/ladyfoxpoint/main/assets/ganyu/decoration.jpg">
 
 <h2>───</h2>
 
