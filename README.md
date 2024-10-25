@@ -19,18 +19,13 @@
 
 ```
 💼 Est • UFOP
-💻 Python • <C#> • <Rust>
+💻 Python • <C#> • <C++>
 🛠️ <Jetbrains™> • VSCode
-🧰 <Blender> • Photoshop
-🎮 Genshin • Minecraft • + more
+🧰 <Blender> • <Unity> • Photoshop
+🎮 Hoyoverse • Warframe • + more
 
 <> = Learning
 ```
-
-###
-
-![anime-game-assets](https://github.com/qilinmoe/anime-game-assets/) ・ 💾 Archive of assets from anime-game <br>
-![Jade Chamber](https://github.com/jade-chamber) ・ 🧧 Dedicated to the extraction of assets from anime-company games <br>
 
 </div>
 
